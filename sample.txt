@@ -1,2 +1,2 @@
 This is first file post repo creation.
-test my statement for conflict. Taking remote code as well to make the functionality consistance.
+test my statement for conflict. Taking remote code as well to make the functionality consistance. This is actual code.
