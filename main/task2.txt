@@ -1,1 +1,7 @@
 I a doing task 2.
+<<<<<<< Updated upstream
+Working on this item as well.
+I am again working this as well.
+=======
+Working on this item as well.
+>>>>>>> Stashed changes
