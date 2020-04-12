@@ -1,11 +1,3 @@
-<<<<<<< Updated upstream
+
 I am doing task 1.
-<<<<<<< Updated upstream
-Working on this item.
-Working again on this item.
-=======
-Working on this item.
->>>>>>> Stashed changes
-=======
-I am doing task 1.
->>>>>>> Stashed changes
+
