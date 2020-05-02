@@ -12,3 +12,4 @@ add
  whats going on
  added today
 
+created release 1.0 branch
